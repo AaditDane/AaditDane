@@ -1,13 +1,12 @@
 ### Hey, I'm Aadit
 
-I build financial tools that replace institutional systems.
+I build fintech tools. Most of my repos are private because they're production systems handling real money.
 
-**Currently:** Founder of [PRUF](https://getpruf.app) — AI-verified track records for trading influencers. 101 influencers tracked, 45K+ signals classified, live product.
+**What I'm working on:**
+- [PRUF](https://getpruf.app) — tracks trading influencers on X/Twitter, verifies their actual P&L against market data. 101 influencers, 45K+ signals classified. Solo-built.
+- Portfolio and compliance dashboard for UTD's $2.5M student-managed fund ([utdfund.vercel.app](https://utdfund.vercel.app))
+- 80+ indicators on TradingView (PineScript, private)
 
-**Previously:** Portfolio Manager of a $2.5M university endowment fund. Built the fund's portfolio and compliance dashboard — adopted by the fund and referenced by UTIMCO ($70B+ AUM) after outperforming BNY Mellon's own portal.
+**Background:** Portfolio Manager at UTD/UTIMCO student fund. Finance since 18. Moved to the US from India in 2019.
 
-80+ quantitative indicators on TradingView. Finance background since 18.
-
-Most of my work is in private repos (production systems with live money). If you want to see what I build, visit [getpruf.app](https://getpruf.app).
-
-**Get in touch:** aadit@getpruf.app | [LinkedIn](https://www.linkedin.com/in/aaditdane/)
+aadit@getpruf.app
